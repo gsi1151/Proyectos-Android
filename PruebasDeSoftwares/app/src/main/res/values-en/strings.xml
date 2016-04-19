@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Pruebas de Software</string>
+
+    <!-- SignUp activity -->
+    <string name="signup_label">Last.fm: Sign Up</string>
+    <string name="signup_create_account">Create Account</string>
+    <string name="edt_usuario">User</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_email">Your email</string>
+    <string name="signup_saving">Cretae you acount</string>
+
+    <!-- LastFm main activity -->
+    <string name="main_username">User</string>
+    <string name="main_password">Password</string>
+    <string name="main_login">Login</string>
+    <string name="main_signup">Sig in</string>
+    <string name="main_newaccount">&quot;I you don't have acount?&quot;</string>
+    <string name="main_authenticating">Autenticación</string>
+    <string name="main_forgotpassword">Olvidé mi contraseña</string>
+
+    <!--botones -->
+
+    <string name="btn_menu">Menu</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="login_valido">luis</string>
+    <string name="clave_valida">123</string>
+    <string name="error_autenticar">LOGIN O PASS INCORRECTOS</string>
+
+    <!-- pag bienvenido_layout-->
+    <string name="Introduccion">En un proyecto de desarrollo de software los errores \n
+        (bugs en inglés) puede presentarse en cualquiera de las etapas del ciclo de vida
+        del software Aún cuando se intente detectarlos despúes de cada fase utilizando
+        técnicas como la inspección, algunos errores permanecen sin ser descubiertos </string>
+    <string name="intro">Esta aplicacion te ayudara aprender los diferentes tipos de pruebas de software.\n</string>
+    <string name="bienvenido">Bienvenido a Pruebas de software </string>
+
+<!--Menu-->
+    <string name="drawer_opened">Opened</string>
+    <string name="drawer_closed">Closed</string>
+    <string name="remitente">tema</string>
+    <string name="asunto">subtema</string>
+    <string name="bibliografia">Bibliografía: \n PruebasSoftware.pdf \n http://ing-sw.blogspot.mx/2005/04/tipos-de-pruebas-de-software.html</string>
+    <string name="version">Versión: \n 1.0</string>
+    <string name="empresa">Empresa: \n Universidad Tecnologica Del Norte de Guanajuato</string>
+    <string name="desarrollador">Desarrollador: \n Luis Alberto Grimaldo Robles</string>
+    <string name="materia">Materia: \n Desarrollo de Aplicaciones III</string>
+    <string name="temas">Temas</string>
+    <string name="menu1">Menu item uno</string>
+    <string name="menu2">Menu item dos</string>
+    <string name="menu3">Menu item tres</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="str_next">Next</string>
+    <string name="title_activity_result">Results!!!</string>
+    <string name="rock">Rock</string>
+    <string name="electronica">Electronica</string>
+    <string name="intente">Intente otra vez</string>
+    <string name="contrasenia_invalida">Contrasenia Invalida</string>
+    <string name="contrasenia_sin_conincidir">Las Contrasenias No Coinciden</string>
+    <string name="datos_guardados">Datos Guardados</string>
+
+
+</resources>
